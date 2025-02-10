@@ -4,7 +4,7 @@
 
 ---
 **Product Vision :** To create a new website to sell the product zipper socks that will be sold online on personal website as well as be distributed to big name stores as well in order to maximize profits and popularity
-
+---
 **Function Requirements:**
 - Respond to user input such as mouse clicks.
 - Display products.
