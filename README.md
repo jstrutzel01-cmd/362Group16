@@ -3,4 +3,4 @@
 ### Fashion Project App: Zipper Socks
 
 ---
-**Product Vision :** To create a new innovative fashion trend through the product zipper socks that will be sold online as well as be distributed to big name stores as well in order to maximize profits and popularity
+**Product Vision :** To create a new innovative fashion trend through the product zipper socks that will be sold online on personal website as well as be distributed to big name stores as well in order to maximize profits and popularity
