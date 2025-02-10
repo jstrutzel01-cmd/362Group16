@@ -17,9 +17,9 @@
 - Track user information to allow cart implementation.
 - Integrate secure payment methods.
 
-**Non-functional:**
+**Non-Functional Requirements:**
 - Able to serve 10,000 people simultaneously.
 - Respond within 1 second to each user.
-- Comply with legality for websites in US, Canada, and UN
+- Comply with legality for websites in US, Canada, and UN.
 - Resist basic cybersecurity attacks.
-- Have the website be available in US, Canada, and UN
+- Have the website be available in US, Canada, and UN.
