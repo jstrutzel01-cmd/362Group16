@@ -23,3 +23,7 @@
 - Comply with legality for websites in US, Canada, and UN.
 - Resist basic cybersecurity attacks.
 - Have the website be available in US, Canada, and UN.
+
+**Class Diagram:**
+
+![Class Diagram](CPSC_362_Group_Activity.jpg)
