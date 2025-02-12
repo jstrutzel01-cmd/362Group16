@@ -26,4 +26,4 @@
 
 **Class Diagram:**
 
-![Class Diagram](CPSC_362_Group_Activity.jpg)
+![CPSC_362_Group_Activity.jpg](https://github.com/jstrutzel01-cmd/362Group16/blob/6545f45a71ced4d7dc15d85b863cb64efb4d8609/CPSC%20362%20Group%20Activity%202.jpg)
