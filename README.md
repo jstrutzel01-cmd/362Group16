@@ -20,6 +20,13 @@
 - users can reach the shopping cart from homepage, products page, or an individual products' page
 - go from shopping cart to a purchase page where the user can pay for all items in the shopping cart and shipping
 
+|       |          |
+| ----- | -------- |
+| ID:   | 01       |
+| Name: | Homepage |
+
+
+
 **Non-Functional Requirements:**
 - Able to serve up to 10,000 people simultaneously.
 - Respond within 1 second to each user.
