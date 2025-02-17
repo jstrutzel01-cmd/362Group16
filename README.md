@@ -6,19 +6,46 @@
 **Product Vision :** To create a new website to sell the product zipper socks that will be sold online on personal website as well as be distributed to big name stores as well in order to maximize profits and popularity
 ---
 **Function Requirements:**
+
+#### homepage group
 - when a user goes to the domain, the homepage should offer a brief description of the product and the company
 - can go to categories from homepage
 - can go to search page from homepage or categories
 - can go to About and Contact Information from homepage or categories
 - About and Contact Information page contains company description and legal contact information
+
+
+- users can reach the shopping cart from homepage, products page, or an individual products' page
+
+#### products themselves
 - products are sorted into categories
+
+#### categories page
 - categories page displays categories
-- can go from categories to a given category, which displays products in that category
+- can go from categories to the products page displaying specific categories
+- can go to search page from homepage or categories
+- can go to About and Contact Information from homepage or categories
+
+
+#### search page
 - search for products based on name or category in the search page
+
+
+#### products page
+- users can reach the shopping cart from homepage, products page, or an individual products' page
+
+
+#### individual product pages
 - products displayed can be clicked to view an individual product's specifications, reviews, and legal information
 - individual products can be added to the shopping cart
 - users can reach the shopping cart from homepage, products page, or an individual products' page
-- go from shopping cart to a purchase page where the user can pay for all items in the shopping cart and shipping
+
+#### shopping cart
+- go from shopping cart to a purchase page
+
+#### purchase page
+- the user can pay for all items in the shopping cart and shipping for those items
+
 
 |       |          |
 | ----- | -------- |
