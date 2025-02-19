@@ -51,49 +51,55 @@
 | ----- | -------- |
 | ID:   | 01       |
 | Name: | Homepage |
-| Description: |  |
+| Description: | When a user goes to the domain, the homepage should offer a brief description of the product and the company <br> Can go to categories from homepage <br> Can go to search page from homepage <br> Can go to About and Contact Information from homepage |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 02       |
 | Name: | Products |
-| Description: |  |
+| Description: | Products are sorted into categories <br> Products have legal information associated with them |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 03       |
 | Name: | Categories Page |
-| Description: |  |
+| Description: | Categories page displays categories <br> Can go from categories to the products page displaying specific categories <br> Can go to search page from categories <br> Can go to About and Contact Information from categories |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 04       |
 | Name: | Search Page |
-| Description: |  |
+| Description: | Users can search for products based on name or category in the search page |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 05       |
 | Name: | Products Page |
-| Description: |  |
+| Description: | Displays products of the category determined from the categories or search pages <br> Can go to the search page <br> Can go to an individual product page |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 06       |
 | Name: | Individual Product Pages |
-| Description: |  |
+| Description: | Products displayed can be clicked to view an individual product's specifications, reviews, and legal information <br> Individual products can be added to the shopping cart <br> Users can reach the shopping cart |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 07       |
-| Name: | Shopping Cart |
-| Description: |  |
+| Name: | Shopping Cart Page |
+| Description: | Displays products that have been added to the shopping cart <br> Users can remove products that were added to the shopping cart <br> Users can choose to purchase all products in the shopping cart <br> Can go to the purchase page |
 
 |       |          |
 | ----- | -------- |
 | ID:   | 08       |
 | Name: | Purchase Page |
-| Description: |  |
+| Description: | User can pay for all products in the shopping cart and shipping costs associated with the order |
+
+|       |          |
+| ----- | -------- |
+| ID:   | 09       |
+| Name: | About and Contact Information Page |
+| Description: | Displays company description and legal contact information <br> Can go to the homepage |
 
 **Non-Functional Requirements:**
 - **Able to serve up to 10,000 people simultaneously:**  
