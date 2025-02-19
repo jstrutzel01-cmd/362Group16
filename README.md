@@ -51,8 +51,49 @@
 | ----- | -------- |
 | ID:   | 01       |
 | Name: | Homepage |
+| Description: |  |
 
+|       |          |
+| ----- | -------- |
+| ID:   | 02       |
+| Name: | Products |
+| Description: |  |
 
+|       |          |
+| ----- | -------- |
+| ID:   | 03       |
+| Name: | Categories Page |
+| Description: |  |
+
+|       |          |
+| ----- | -------- |
+| ID:   | 04       |
+| Name: | Search Page |
+| Description: |  |
+
+|       |          |
+| ----- | -------- |
+| ID:   | 05       |
+| Name: | Products Page |
+| Description: |  |
+
+|       |          |
+| ----- | -------- |
+| ID:   | 06       |
+| Name: | Individual Product Pages |
+| Description: |  |
+
+|       |          |
+| ----- | -------- |
+| ID:   | 07       |
+| Name: | Shopping Cart |
+| Description: |  |
+
+|       |          |
+| ----- | -------- |
+| ID:   | 08       |
+| Name: | Purchase Page |
+| Description: |  |
 
 **Non-Functional Requirements:**
 - **Able to serve up to 10,000 people simultaneously:**  
