@@ -1,9 +1,9 @@
 # 362Group16
 ## Isaac Acuna, William Dam, Seamus Flanagan, Joshua Pavon, Joshua Strutzel
-### Fashion Project App: Zipper Socks
+### Fashion Project App: Fashion Shop
 
 ---
-**Product Vision :** To create a new website to sell the product zipper socks that will be sold online on personal website as well as be distributed to big name stores as well in order to maximize profits and popularity
+**Product Vision :** To create a new website to sell different fashion products of multiple variants that will be sold online on personal website as well as be distributed to big name stores as well in order to maximize profits and popularity
 ---
 **Functional Requirements:**
 
@@ -41,7 +41,7 @@
 | ----- | -------- |
 | ID:   | 06       |
 | Name: | Individual Product Pages |
-| Description: | Products displayed can be clicked to view an individual product's specifications, reviews, and legal information <br> Individual products can be added to the shopping cart <br> Users can reach the shopping cart |
+| Description: | Products displayed can be clicked to view an individual product's specifications, price, reviews, and legal information <br> Individual products can be added to the shopping cart <br> Users can reach the shopping cart |
 
 |       |          |
 | ----- | -------- |
@@ -53,7 +53,7 @@
 | ----- | -------- |
 | ID:   | 08       |
 | Name: | Purchase Page |
-| Description: | User can pay for all products in the shopping cart and shipping costs associated with the order |
+| Description: | User can pay for all products by using personal information in the shopping cart and observe shipping costs associated with the order |
 
 |       |          |
 | ----- | -------- |
